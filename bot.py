@@ -178,7 +178,6 @@ def run():
             for u in users:
                 tg_send(u["chat_id"], format_start(rain))
 
-#--            save_rain(rain, "started")
             last_rain = rain
 
         # 🔴 END
