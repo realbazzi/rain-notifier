@@ -52,3 +52,4 @@ Solltest du die Funktion trotzdem nutzen möchten, empfehle ich dir [diesen Bot]
 Ich übernehme keine Haftung für gebannte Accounts, Datenverluste, Konsequenzen oder andere Schäden. Dieses Tool dient ausschließlich zu Schulungs- und Demonstrationszwecken.
 Dieses Tool und der Account stehen in keiner offiziellen Vebindung mit [realbazzi.com](https://realbazzi.com) oder dem Streamer [Real_Bazzi](https://www.twitch.tv/real_bazzi)
 Die Nutzung erfolgt auf eigene Verantwortung.
+Alle Rechte vorbehalten.
